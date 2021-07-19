@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/67251286/126199261-7965b077-6b56-4b59-9e7c-d794821a8d50.jpg" width=50% height=50%>
+
 # FanucProjects
 
 These are projects that I completed during the FANUC Robot Operator -1 course.
@@ -31,7 +33,7 @@ its color. This was a slight introduction to using the camera mounted near the r
 other one that was used before, so had to learn how to jog the robot appropriately and not reach a singularity or hit limit errors (constraints for the movement of the robot).
 
 ## PillClassifier
-A video is not provided for this exact program, but can still refer to the BasicPillClassifier for a clearer visual. The iRVision portion of FANUC was heavily used in the process.
+A video is not provided for this exact program, but can still refer to the BasicPillClassifier.mp4 for a clearer visual. The iRVision portion of FANUC was heavily used in the process.
 The robot is programmed to pick up the completely filled white and red pill bottles (using the dual suction), and then dumps them in the center of the platform. The locations of
 the pills aren't predictable as it isn't realistic to dump the pills in an exact and consistent manner, which is where the computer vision component comes into play. Using a
 software, the robot is trained with the images that were fed to it earlier on to recognize the locations of the pills and then differentiate between the white and red pills
